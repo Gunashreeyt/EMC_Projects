@@ -1,0 +1,21 @@
+bash
+Copy code
+git status
+Stage changes:
+bash
+Copy code
+git add .
+Commit changes:
+bash
+Copy code
+git commit -m "Your commit message here"
+Push to GitHub:
+bash
+Copy code
+git push origin main
+Example Workflow
+Make changes to your files.
+Run git status to see what has changed.
+Stage changes with git add ..
+Commit with git commit -m "Updated feature X".
+Push your changes using git push origin main.
